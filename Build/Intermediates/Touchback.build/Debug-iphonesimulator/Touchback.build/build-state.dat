@@ -1,0 +1,629 @@
+TTouchback
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch.pch Touchback/Touchback-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/TwitterViewController.o /Users/michaelstromer/Documents/Codes/Touchback/Touchback/TwitterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Sport.o /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Sport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/ViewController.o /Users/michaelstromer/Documents/Codes/Touchback/Touchback/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/AppDelegate.o /Users/michaelstromer/Documents/Codes/Touchback/Touchback/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/main.o /Users/michaelstromer/Documents/Codes/Touchback/Touchback/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Touchback normal i386
+cCopyStringsFile /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/en.lproj/InfoPlist.strings Touchback/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Storyboard.storyboard
+cCompileAssetCatalog /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Images.xcassets
+cProcessInfoPlistFile /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Info.plist /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Touchback-Info.plist
+cGenerateDSYMFile /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app.dSYM /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Touchback
+cTouch /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534739320000000000000198
+t1397176626
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531E47FF00000000000003B4
+t1394493439
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E4806000000000000019E
+t1394493446
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534738DC0000000000446820
+t1397176540
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E480C000000000088D8C0
+t1394493452
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E48100000000001F1DE10
+t1394493456
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531E48270000000000000ADC
+t1394493479
+s2780
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch.pch
+t1401383746
+s122340
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/AppDelegate.o
+t1401383767
+s62408
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchResults.o
+t2
+s0
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchTwitter.o
+t2
+s0
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Sport.o
+t1401383746
+s10560
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Touchback.LinkFileList
+c00000000538785B9000000000000030C
+t1401390521
+s780
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/TwitterViewController.o
+t1401383746
+s73008
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/ViewController.o
+t1401390561
+s71340
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/main.o
+t1401390521
+s3568
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/assetcatalog_dependencies.txt
+t1401390562
+s409
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/assetcatalog_generated_info.plist
+t1401390562
+s525
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app
+t1401390563
+s306
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app.dSYM
+t2
+s0
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Info.plist
+t1401390563
+s1276
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/PkgInfo
+t1401390563
+s8
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Storyboard.storyboardc
+t1401390563
+s170
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Touchback
+t1401390561
+s46432
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/en.lproj/InfoPlist.strings
+t1401390561
+s42
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/AppDelegate.h
+c0000000053710274000000000000011F
+t1399915124
+s287
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/AppDelegate.m
+c00000000535D65F6000000000000079F
+t1398629878
+s1951
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Images.xcassets
+c000000005387674200000000000000AA
+t1401382722
+s170
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m
+c0000000053876A8C00000000000010B8
+t1401383564
+s4280
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m
+c0000000053876B540000000000000F9E
+t1401383764
+s3998
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Sport.h
+c00000000535D65F60000000000000165
+t1398629878
+s357
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Sport.m
+c00000000535D69600000000000000282
+t1398630752
+s642
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Storyboard.storyboard
+c00000000538767120000000000001062
+t1401382674
+s4194
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Touchback-Info.plist
+c00000000535D4314000000000000062B
+t1398620948
+s1579
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Touchback-Prefix.pch
+c00000000535D43140000000000000158
+t1398620948
+s344
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/TwitterViewController.h
+c0000000053876A1B00000000000001AD
+t1401383451
+s429
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/TwitterViewController.m
+c0000000053876AEC0000000000000E76
+t1401383660
+s3702
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/ViewController.h
+c00000000538785CA00000000000000E1
+t1401390538
+s225
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/ViewController.m
+c00000000538785E000000000000008E0
+t1401390560
+s2272
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/en.lproj/InfoPlist.strings
+c00000000535D4314000000000000002D
+t1398620948
+s45
+
+N/Users/michaelstromer/Documents/Codes/Touchback/Touchback/main.m
+c00000000535D4314000000000000015B
+t1398620948
+s347
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/AppDelegate.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Sport.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/TwitterViewController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/ViewController.m
+r0
+
+CBuild AST from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf5674761bd37b941^533e4861bd37b941^---0#1#1#--18"Check dependencies36"64786EC7-320C-4621-81B1-BBB200732308-
+
+CCompileAssetCatalog /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Images.xcassets
+s423083361.400491
+e423083362.889581
+r1
+xCompileAssetCatalog
+x/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app
+x/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Images.xcassets
+o2014-05-29 15:09:22.735 IBCocoaTouchImageCatalogTool[3057:303] CFPreferences: user home directory at file:///Users/michaelstromer/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/LaunchImage-700-568h@2x.png
+o/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Assets.car
+o/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Touchback.app Touchback/Images.xcassets96"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Touchback.app Touchback/Images.xcassets89986661bd37b941^16bde362bd37b941^-669"2014-05-29 15:09:22.735 IBCocoaTouchImageCatalogTool[3057:303] CFPreferences: user home directory at file:///Users/michaelstromer/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/LaunchImage-700-568h@2x.png/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Assets.car/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@81"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/Images.xcassets/0000000000000000^1220"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Touchback.app Touchback/Images.xcassets    cd /Users/michaelstromer/Documents/Codes/Touchback    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --target-device ipad --compress-pngs --compile /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Images.xcassets36"DAFBF015-F912-4379-BC64-C98FEFF0559F-
+b1635FBF2-5DB8-4B4A-BED7-DAD0BC4465E1
+
+CCompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/AppDelegate.o /Users/michaelstromer/Documents/Codes/Touchback/Touchback/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423076567.397395
+e423076567.550376
+r1
+xCompileC
+xBuild/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/AppDelegate.o
+x/Users/michaelstromer/Documents/Codes/Touchback/Touchback/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/AppDelegate.m
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/michaelstromer/Documents/Codes/Touchback/Touchback/AppDelegate.m208"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/AppDelegate.o Touchback/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler77d765d7a237b941^29ea8cd7a237b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/AppDelegate.m0000000000000000^3842"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/AppDelegate.o Touchback/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Touchback    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources/i386 -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator -include /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/AppDelegate.dia -c /Users/michaelstromer/Documents/Codes/Touchback/Touchback/AppDelegate.m -o /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/AppDelegate.o36"2FE22933-FAF4-44E2-A2F9-32D83686A0F9-
+b91C1C559-A5EE-4B33-A10D-D8277B33B5F6
+
+CCompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchResults.o /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423076567.394163
+e423076567.550442
+r0
+xCompileC
+xBuild/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchResults.o
+x/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.h
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:40:31: error: 'release' is unavailable: not available in automatic reference counting mode
+o        [twitterViewAlertView release];
+o                              ^
+oIn module 'UIKit' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.h:9:
+oIn module 'Foundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:8:
+oIn module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:
+oIn module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:
+oIn module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:38:1: note: declaration has been explicitly marked unavailable here
+o- (oneway void)release OBJC_ARC_UNAVAILABLE;
+o^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:40:31: error: ARC forbids explicit message send of 'release'
+o        [twitterViewAlertView release];
+o         ~~~~~~~~~~~~~~~~~~~~ ^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:63:27: error: 'release' is unavailable: not available in automatic reference counting mode
+o    [twitterViewAlertView release];
+o                          ^
+oIn module 'UIKit' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.h:9:
+oIn module 'Foundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:8:
+oIn module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:
+oIn module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:
+oIn module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:38:1: note: declaration has been explicitly marked unavailable here
+o- (oneway void)release OBJC_ARC_UNAVAILABLE;
+o^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:63:27: error: ARC forbids explicit message send of 'release'
+o    [twitterViewAlertView release];
+o     ~~~~~~~~~~~~~~~~~~~~ ^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:69:13: error: ARC forbids explicit message send of 'dealloc'
+o    [tweets dealloc];
+o     ~~~~~~ ^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:70:12: error: ARC forbids explicit message send of 'dealloc'
+o    [super dealloc];
+o     ~~~~~ ^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:120:117: error: 'autorelease' is unavailable: not available in automatic reference counting mode
+o        cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:CellIdentifier] autorelease];
+o                                                                                                                    ^
+oIn module 'UIKit' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.h:9:
+oIn module 'Foundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:8:
+oIn module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:
+oIn module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:
+oIn module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:39:1: note: declaration has been explicitly marked unavailable here
+o- (id)autorelease OBJC_ARC_UNAVAILABLE;
+o^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:120:117: error: ARC forbids explicit message send of 'autorelease'
+o        cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:CellIdentifier] autorelease];
+o                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^
+o8 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m212"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchResults.o Touchback/SearchResults.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler470265d7a237b941^d0ee8cd7a237b941^-6256"/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:40:31: error: 'release' is unavailable: not available in automatic reference counting mode        [twitterViewAlertView release];                              ^In module 'UIKit' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.h:9:In module 'Foundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:8:In module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:In module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:In module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:38:1: note: declaration has been explicitly marked unavailable here- (oneway void)release OBJC_ARC_UNAVAILABLE;^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:40:31: error: ARC forbids explicit message send of 'release'        [twitterViewAlertView release];         ~~~~~~~~~~~~~~~~~~~~ ^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:63:27: error: 'release' is unavailable: not available in automatic reference counting mode    [twitterViewAlertView release];                          ^In module 'UIKit' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.h:9:In module 'Foundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:8:In module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:In module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:In module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:38:1: note: declaration has been explicitly marked unavailable here- (oneway void)release OBJC_ARC_UNAVAILABLE;^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:63:27: error: ARC forbids explicit message send of 'release'    [twitterViewAlertView release];     ~~~~~~~~~~~~~~~~~~~~ ^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:69:13: error: ARC forbids explicit message send of 'dealloc'    [tweets dealloc];     ~~~~~~ ^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:70:12: error: ARC forbids explicit message send of 'dealloc'    [super dealloc];     ~~~~~ ^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:120:117: error: 'autorelease' is unavailable: not available in automatic reference counting mode        cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:CellIdentifier] autorelease];                                                                                                                    ^In module 'UIKit' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.h:9:In module 'Foundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:8:In module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:In module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:In module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:39:1: note: declaration has been explicitly marked unavailable here- (id)autorelease OBJC_ARC_UNAVAILABLE;^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m:120:117: error: ARC forbids explicit message send of 'autorelease'        cell = [[[UITableViewCell alloc] initWithStyle:UITableViewCellStyleSubtitle reuseIdentifier:CellIdentifier] autorelease];                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^8 errors generated.-0#0#1#-19%DVTDocumentLocation2@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m0000000000000000^3854"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchResults.o Touchback/SearchResults.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Touchback    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources/i386 -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator -include /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchResults.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchResults.dia -c /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchResults.m -o /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchResults.o36"9F0A4F13-7AC0-41C6-9E99-10DD5E62723B-
+b91C1C559-A5EE-4B33-A10D-D8277B33B5F6
+
+CCompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchTwitter.o /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423076567.393834
+e423076567.451415
+r0
+xCompileC
+xBuild/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchTwitter.o
+x/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.h
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:48:14: error: 'release' is unavailable: not available in automatic reference counting mode
+o        [connection release];
+o                    ^
+oIn module 'Foundation' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.h:9:
+oIn module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:
+oIn module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:
+oIn module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:38:1: note: declaration has been explicitly marked unavailable here
+o- (oneway void)release OBJC_ARC_UNAVAILABLE;
+o^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:48:14: error: ARC forbids explicit message send of 'release'
+o        [connection release];
+o         ~~~~~~~~~~ ^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:49:11: error: 'release' is unavailable: not available in automatic reference counting mode
+o        [request release];
+o                 ^
+oIn module 'Foundation' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.h:9:
+oIn module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:
+oIn module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:
+oIn module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:38:1: note: declaration has been explicitly marked unavailable here
+o- (oneway void)release OBJC_ARC_UNAVAILABLE;
+o^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:49:11: error: ARC forbids explicit message send of 'release'
+o        [request release];
+o         ~~~~~~~ ^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:75:38: error: no visible @interface for 'NSString' declares the selector 'JSONValue'
+o        NSDictionary *results = [jsonString JSONValue];
+o                                 ~~~~~~~~~~ ^~~~~~~~~
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:96:14: error: 'release' is unavailable: not available in automatic reference counting mode
+o        [jsonString release];
+o                    ^
+oIn module 'Foundation' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.h:9:
+oIn module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:
+oIn module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:
+oIn module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:38:1: note: declaration has been explicitly marked unavailable here
+o- (oneway void)release OBJC_ARC_UNAVAILABLE;
+o^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:96:14: error: ARC forbids explicit message send of 'release'
+o        [jsonString release];
+o         ~~~~~~~~~~ ^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:103:16: error: 'release' is unavailable: not available in automatic reference counting mode
+o    [tweetBlob release];
+o               ^
+oIn module 'Foundation' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.h:9:
+oIn module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:
+oIn module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:
+oIn module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:38:1: note: declaration has been explicitly marked unavailable here
+o- (oneway void)release OBJC_ARC_UNAVAILABLE;
+o^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:103:16: error: ARC forbids explicit message send of 'release'
+o    [tweetBlob release];
+o     ~~~~~~~~~ ^
+o/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:104:12: error: ARC forbids explicit message send of 'dealloc'
+o    [super dealloc];
+o     ~~~~~ ^
+o10 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m212"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchTwitter.o Touchback/SearchTwitter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc7f064d7a237b941^bd8f73d7a237b941^-6798"/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:48:14: error: 'release' is unavailable: not available in automatic reference counting mode        [connection release];                    ^In module 'Foundation' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.h:9:In module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:In module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:In module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:38:1: note: declaration has been explicitly marked unavailable here- (oneway void)release OBJC_ARC_UNAVAILABLE;^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:48:14: error: ARC forbids explicit message send of 'release'        [connection release];         ~~~~~~~~~~ ^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:49:11: error: 'release' is unavailable: not available in automatic reference counting mode        [request release];                 ^In module 'Foundation' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.h:9:In module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:In module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:In module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:38:1: note: declaration has been explicitly marked unavailable here- (oneway void)release OBJC_ARC_UNAVAILABLE;^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:49:11: error: ARC forbids explicit message send of 'release'        [request release];         ~~~~~~~ ^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:75:38: error: no visible @interface for 'NSString' declares the selector 'JSONValue'        NSDictionary *results = [jsonString JSONValue];                                 ~~~~~~~~~~ ^~~~~~~~~/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:96:14: error: 'release' is unavailable: not available in automatic reference counting mode        [jsonString release];                    ^In module 'Foundation' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.h:9:In module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:In module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:In module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:38:1: note: declaration has been explicitly marked unavailable here- (oneway void)release OBJC_ARC_UNAVAILABLE;^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:96:14: error: ARC forbids explicit message send of 'release'        [jsonString release];         ~~~~~~~~~~ ^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:103:16: error: 'release' is unavailable: not available in automatic reference counting mode    [tweetBlob release];               ^In module 'Foundation' imported from /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.h:9:In module 'CoreFoundation' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In module 'Dispatch' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFStream.h:15:In module 'os' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/dispatch/dispatch.h:48:In module 'ObjectiveC' imported from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/os/object.h:74:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h:38:1: note: declaration has been explicitly marked unavailable here- (oneway void)release OBJC_ARC_UNAVAILABLE;^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:103:16: error: ARC forbids explicit message send of 'release'    [tweetBlob release];     ~~~~~~~~~ ^/Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m:104:12: error: ARC forbids explicit message send of 'dealloc'    [super dealloc];     ~~~~~ ^10 errors generated.10(36%IDEClangDiagnosticActivityLogMessage2@76"'release' is unavailable: not available in automatic reference counting mode-423076567#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-423076567#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@150"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h0000000000000000^37#0#37#0#823#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^47#13#47#13#2237#0#14"Semantic Issue--2@46"ARC forbids explicit message send of 'release'-423076567#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^47#13#47#13#2237#0#16"ARC Restrictions1(3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^47#2#47#12#2226#0#-2@76"'release' is unavailable: not available in automatic reference counting mode-423076567#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-423076567#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@150"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h0000000000000000^37#0#37#0#823#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^48#10#48#10#2257#0#14"Semantic Issue--2@46"ARC forbids explicit message send of 'release'-423076567#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^48#10#48#10#2257#0#16"ARC Restrictions1(3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^48#2#48#9#2249#0#-2@70"No visible @interface for 'NSString' declares the selector 'JSONValue'-423076567#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^74#37#74#37#3070#0#18"ARC Semantic Issue2(3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^74#26#74#36#3059#0#3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^74#37#74#46#3070#0#-2@76"'release' is unavailable: not available in automatic reference counting mode-423076567#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-423076567#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@150"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h0000000000000000^37#0#37#0#823#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^95#13#95#13#3874#0#14"Semantic Issue--2@46"ARC forbids explicit message send of 'release'-423076567#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^95#13#95#13#3874#0#16"ARC Restrictions1(3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^95#2#95#12#3863#0#-2@76"'release' is unavailable: not available in automatic reference counting mode-423076567#18446744073709551615#0#1(2@55"Declaration has been explicitly marked unavailable here-423076567#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@150"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/objc/NSObject.h0000000000000000^37#0#37#0#823#0#14"Semantic Issue--2#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^102#15#102#15#3958#0#14"Semantic Issue--2@46"ARC forbids explicit message send of 'release'-423076567#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^102#15#102#15#3958#0#16"ARC Restrictions1(3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^102#5#102#14#3948#0#-2@46"ARC forbids explicit message send of 'dealloc'-423076567#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^103#11#103#11#3979#0#16"ARC Restrictions1(3@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^103#5#103#10#3973#0#-0#0#1#-19%DVTDocumentLocation4@80"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m0000000000000000^3854"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchTwitter.o Touchback/SearchTwitter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Touchback    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources/i386 -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator -include /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchTwitter.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchTwitter.dia -c /Users/michaelstromer/Documents/Codes/Touchback/Touchback/SearchTwitter.m -o /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/SearchTwitter.o36"3FDB0BA2-89BA-4604-8F72-E9543409408F-
+b91C1C559-A5EE-4B33-A10D-D8277B33B5F6
+
+CCompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Sport.o /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Sport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423076546.056766
+e423076546.205822
+r1
+xCompileC
+xBuild/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Sport.o
+x/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Sport.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Sport.m
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Sport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Sport.m196"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Sport.o Touchback/Sport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler51a10ec2a237b941^575a36c2a237b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/Sport.m0000000000000000^3806"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Sport.o Touchback/Sport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Touchback    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources/i386 -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator -include /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Sport.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Sport.dia -c /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Sport.m -o /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Sport.o36"8145E849-2C53-4E12-9DC2-F024E3BDE6D1-
+b6168D313-39A9-4FF4-8348-A3B9CF7DB014
+
+CCompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/TwitterViewController.o /Users/michaelstromer/Documents/Codes/Touchback/Touchback/TwitterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423076546.055689
+e423076546.205863
+r1
+xCompileC
+xBuild/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/TwitterViewController.o
+x/Users/michaelstromer/Documents/Codes/Touchback/Touchback/TwitterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/TwitterViewController.m
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/TwitterViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/michaelstromer/Documents/Codes/Touchback/Touchback/TwitterViewController.m228"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/TwitterViewController.o Touchback/TwitterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd1590ec2a237b941^975336c2a237b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/TwitterViewController.m0000000000000000^3902"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/TwitterViewController.o Touchback/TwitterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Touchback    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources/i386 -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator -include /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/TwitterViewController.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/TwitterViewController.dia -c /Users/michaelstromer/Documents/Codes/Touchback/Touchback/TwitterViewController.m -o /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/TwitterViewController.o36"4424E06C-B00C-4015-96D1-F998CCB743EC-
+b6168D313-39A9-4FF4-8348-A3B9CF7DB014
+
+CCompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/ViewController.o /Users/michaelstromer/Documents/Codes/Touchback/Touchback/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423083361.281300
+e423083361.362372
+r1
+xCompileC
+xBuild/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/ViewController.o
+x/Users/michaelstromer/Documents/Codes/Touchback/Touchback/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/ViewController.m
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/ViewController.h
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Sport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/michaelstromer/Documents/Codes/Touchback/Touchback/ViewController.m214"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/ViewController.o Touchback/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraf254861bd37b941^077c5e61bd37b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/ViewController.m0000000000000000^3860"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/ViewController.o Touchback/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Touchback    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources/i386 -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator -include /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/ViewController.dia -c /Users/michaelstromer/Documents/Codes/Touchback/Touchback/ViewController.m -o /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/ViewController.o36"F5B59269-183E-481A-B0BA-C227477BF328-
+b1635FBF2-5DB8-4B4A-BED7-DAD0BC4465E1
+
+CCompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/main.o /Users/michaelstromer/Documents/Codes/Touchback/Touchback/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423083321.037033
+e423083321.071350
+r1
+xCompileC
+xBuild/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/main.o
+x/Users/michaelstromer/Documents/Codes/Touchback/Touchback/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/main.m
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/michaelstromer/Documents/Codes/Touchback/Touchback/main.m194"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/main.o Touchback/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerde910939bd37b941^ee431239bd37b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/main.m0000000000000000^3800"CompileC Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/main.o Touchback/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Touchback    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources/i386 -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator -include /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/main.dia -c /Users/michaelstromer/Documents/Codes/Touchback/Touchback/main.m -o /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/main.o36"4F372167-57AA-4385-B971-5EC428BEEBCF-
+b9001C375-D48D-415E-A01D-2CB20A14A128
+
+CCompileStoryboard /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Storyboard.storyboard
+s423083361.399601
+e423083363.029762
+r1
+xCompileStoryboard
+x/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Storyboard.storyboard
+o2014-05-29 15:09:22.935 Interface Builder Cocoa Touch Tool[3058:303] CFPreferences: user home directory at file:///Users/michaelstromer/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"CompileStoryboard Touchback/Storyboard.storyboard49"CompileStoryboard Touchback/Storyboard.storyboardab5e6661bd37b941^f19e0763bd37b941^-238"2014-05-29 15:09:22.935 Interface Builder Cocoa Touch Tool[3058:303] CFPreferences: user home directory at file:///Users/michaelstromer/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@86"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/Storyboard.storyboard0000000000000000^857"CompileStoryboard Touchback/Storyboard.storyboard    cd /Users/michaelstromer/Documents/Codes/Touchback    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Storyboard.storyboardc /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Storyboard.storyboard36"27C6146A-ED49-4079-8CF2-D483448A70BC-
+b1635FBF2-5DB8-4B4A-BED7-DAD0BC4465E1
+
+CCopyStringsFile /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/en.lproj/InfoPlist.strings Touchback/en.lproj/InfoPlist.strings
+s423083361.399443
+e423083361.400439
+r1
+xCopyStringsFile
+x/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/en.lproj/InfoPlist.strings
+xTouchback/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy Touchback/en.lproj/InfoPlist.strings130"CopyStringsFile Build/Products/Debug-iphonesimulator/Touchback.app/en.lproj/InfoPlist.strings Touchback/en.lproj/InfoPlist.strings8b526661bd37b941^408a6661bd37b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/en.lproj/InfoPlist.strings0000000000000000^619"CopyStringsFile Build/Products/Debug-iphonesimulator/Touchback.app/en.lproj/InfoPlist.strings Touchback/en.lproj/InfoPlist.strings    cd /Users/michaelstromer/Documents/Codes/Touchback    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/en.lproj -- Touchback/en.lproj/InfoPlist.strings36"7269BC9C-FFA4-4E1C-B691-EEE32BDBE3E5-
+b1635FBF2-5DB8-4B4A-BED7-DAD0BC4465E1
+
+CGenerateDSYMFile /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app.dSYM /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Touchback
+s423083363.032642
+e423083363.062409
+r1
+xGenerateDSYMFile
+x/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app.dSYM
+x/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Touchback
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Generate /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app.dSYM133"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Touchback.app.dSYM Build/Products/Debug-iphonesimulator/Touchback.app/Touchback1f650863bd37b941^7ffa0f63bd37b941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app.dSYM00341cacdeffdf42^700"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Touchback.app.dSYM Build/Products/Debug-iphonesimulator/Touchback.app/Touchback    cd /Users/michaelstromer/Documents/Codes/Touchback    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Touchback -o /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app.dSYM36"4E1DBE4D-FD58-4171-A5D7-0789538759A5-
+b1635FBF2-5DB8-4B4A-BED7-DAD0BC4465E1
+
+CLd /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Touchback normal i386
+s423083361.363295
+e423083361.398604
+r1
+xLd
+x/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Touchback
+xnormal
+xi386
+d/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Touchback.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/TwitterViewController.o
+d/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Sport.o
+d/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/ViewController.o
+d/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/AppDelegate.o
+d/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Social.framework/Social
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Link /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Touchback75"Ld Build/Products/Debug-iphonesimulator/Touchback.app/Touchback normal i386df155d61bd37b941^910b6661bd37b941^---0#0#1#--1463"Ld Build/Products/Debug-iphonesimulator/Touchback.app/Touchback normal i386    cd /Users/michaelstromer/Documents/Codes/Touchback    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator -F/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator -filelist /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Touchback.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Objects-normal/i386/Touchback_dependency_info.dat -o /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Touchback36"251792DC-1702-446E-A461-F78124ED21CB-
+b1635FBF2-5DB8-4B4A-BED7-DAD0BC4465E1
+
+CProcessInfoPlistFile /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Info.plist /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Touchback-Info.plist
+s423083363.030450
+e423083363.032212
+r1
+xProcessInfoPlistFile
+x/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Info.plist
+x/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Touchback-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Process /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Touchback-Info.plist113"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Touchback.app/Info.plist Touchback/Touchback-Info.plist6edb0763bd37b941^8e400863bd37b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/Touchback-Info.plist0000000000000000^945"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Touchback.app/Info.plist Touchback/Touchback-Info.plist    cd /Users/michaelstromer/Documents/Codes/Touchback    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Touchback-Info.plist -genpkginfo /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/assetcatalog_generated_info.plist -o /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app/Info.plist36"8FAB31E2-0ECD-44FE-A02A-F1993A3349B6-
+b1635FBF2-5DB8-4B4A-BED7-DAD0BC4465E1
+
+CProcessPCH /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch.pch Touchback/Touchback-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423076546.012118
+e423076546.054921
+r1
+xProcessPCH
+x/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch.pch
+xTouchback/Touchback-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaelstromer/Documents/Codes/Touchback/Touchback/Touchback-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile Touchback/Touchback-Prefix.pch219"ProcessPCH Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch.pch Touchback/Touchback-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler772b03c2a237b941^941410c2a237b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/michaelstromer/Documents/Codes/Touchback/Touchback/Touchback-Prefix.pch0000000000000000^3706"ProcessPCH Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch.pch Touchback/Touchback-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaelstromer/Documents/Codes/Touchback    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/michaelstromer/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-generated-files.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-own-target-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-all-target-headers.hmap -iquote /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/Touchback-project-headers.hmap -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources/i386 -I/Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/Touchback.build/Debug-iphonesimulator/Touchback.build/DerivedSources -F/Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch.dia -MMD -MT dependencies -MF /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch.d -c /Users/michaelstromer/Documents/Codes/Touchback/Touchback/Touchback-Prefix.pch -o /Users/michaelstromer/Documents/Codes/Touchback/Build/Intermediates/PrecompiledHeaders/Touchback-Prefix-fkxofndzafioimakdivximpczppq/Touchback-Prefix.pch.pch36"84AD9176-961A-4B6F-9237-A1BC0F5ED1B5-
+b6168D313-39A9-4FF4-8348-A3B9CF7DB014
+
+CProcessPCH /Users/michaelstromer/Library/Developer/Xcode/DerivedData/Touchback-ekeztblhvteivpeciyohevsmcrsu/Index/PrecompiledHeaders/Touchback-Prefix-gjzxxlqpltafkebswxynremflzjk_ast/Touchback-Prefix.pch.pch Touchback/Touchback-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/michaelstromer/Documents/Codes/Touchback/Build/Products/Debug-iphonesimulator/Touchback.app
+r0
+
